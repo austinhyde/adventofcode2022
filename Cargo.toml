@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "day1-calories",
+  # template insert here
+
+  "lib",
+]
+exclude = ["template"]
