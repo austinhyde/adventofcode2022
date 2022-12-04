@@ -1,6 +1,7 @@
 [workspace]
 members = [
   "day1-calories",
+  "day2-rps",
   # template insert here
 
   "lib",
